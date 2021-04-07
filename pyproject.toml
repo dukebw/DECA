@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "DECA"
+name = "decalib"
 version = "1.0.0"
 description = "DECA 3DMM regression"
 authors = ["Brendan Duke <brendanw.duke@gmail.com>"]
@@ -12,7 +12,6 @@ scipy = "^1.4.1 "
 chumpy = "^0.69"
 scikit-image = "^0.15 "
 opencv-python = "^4.1.1 "
-scikit-image = "^0.15"
 PyYAML = "^5.1.1         "
 torch = "^1.6.0"
 torchvision = "^0.7.0"
