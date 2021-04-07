@@ -24,6 +24,11 @@ Clone the repo:
   ```  
 
 ### Requirements
+
+```
+export PIP_FIND_LINKS=https://download.pytorch.org/whl/torch_stable.html
+```
+
 * Python 3.7 (numpy, skimage, scipy, opencv)  
 * PyTorch >= 1.6 (pytorch3d)  
 * face-alignment (Optional for detecting face)  
